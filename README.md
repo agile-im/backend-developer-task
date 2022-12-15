@@ -1,6 +1,6 @@
 ## Backend Developer Task
 
-Lieber Bewerber, mit dieser Aufgabe wollen wir gerne dein Verständnis / Philosophie im Aufbau von Backend-Systemen kennenlernen.
+Hi, mit dieser Aufgabe wollen wir gerne dein Verständnis / Philosophie im Aufbau von Backend-Systemen kennenlernen.
 
 Für die Verständigung zwischen Backend und Frontend verwenden wir OpenAPI Specifications, die in jeder modernen IDE (IntelliJ IDEA, Eclipse, VS Code) oder mit den Werkzeugen von Swagger visualisiert werden können.
 
